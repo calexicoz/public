@@ -1,0 +1,4 @@
+dilbert.com##.js-amu-social-section
+dilbert.com##.amu-comments-container
+dilbert.com##footer
+producthunt.com###root-portal
