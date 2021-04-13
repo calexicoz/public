@@ -6,7 +6,7 @@ dilbert.com##.nav-comic-wrapper
 dilbert.com##footer
 leparisien.fr##div.piano-paywall
 nytimes.com###story > div[data-testid="expanded-dock"]
-producthunt.com###__next div[class^="styles_container"]
+producthunt.com###__next > div[class^="styles_container"]
 producthunt.com###root-portal
 trakt.tv###hu-ck-s-t-er-content-page
 trakt.tv###hu-ck-s-t-er-de-sk-top-wrapper
