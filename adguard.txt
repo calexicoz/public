@@ -1,8 +1,8 @@
 commonsensemedia.org###csm-premium-gate
 dilbert.com##.amu-comments-container
+dilbert.com##.amu-cookie-consent
 dilbert.com##.js-amu-social-section
 dilbert.com##.nav-comic-wrapper
-dilbert.com###js-cookie-consent
 dilbert.com##footer
 leparisien.fr##div.piano-paywall
 nytimes.com###story > div[data-testid="expanded-dock"]
