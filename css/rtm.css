@@ -1,0 +1,7 @@
+a[target="_blank"] {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 20em;
+}
