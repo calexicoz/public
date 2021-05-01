@@ -1,4 +1,10 @@
-@-moz-document domain("www.rememberthemilk.com") {
+/* ==UserStyle==
+@name           rememberthemilk.com
+@namespace      github.com/calexicoz
+@version        1.0.0
+==/UserStyle== */
+
+@-moz-document domain("rememberthemilk.com") {
   a[target="_blank"] {
     display: inline-block;
     overflow: hidden;
