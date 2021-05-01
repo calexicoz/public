@@ -1,7 +1,9 @@
-a[target="_blank"] {
-  display: inline-block;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  max-width: 20em;
+@-moz-document domain("www.rememberthemilk.com") {
+  a[target="_blank"] {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 20em;
+  }
 }
