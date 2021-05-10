@@ -11,5 +11,6 @@
     text-overflow: ellipsis;
     white-space: nowrap;
     max-width: 20em;
+    vertical-align: bottom;
   }
 }
